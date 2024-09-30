@@ -12,7 +12,9 @@ Challengify is a fun and casual daily challenge app that motivates users to comp
   
 ## Screenshots
 
-*(Add screenshots of your app here)*
+![Screenshot 1](Simulator Screenshot - iPhone 16 Pro - 2024-09-30 at 16.21.49.png)
+![Screenshot 2](Simulator Screenshot - iPhone 16 Pro - 2024-09-30 at 16.21.49.png)
+![Screenshot 2](Simulator Screenshot - iPhone 16 Pro - 2024-09-30 at 16.21.49.png)
 
 ## Getting Started
 
